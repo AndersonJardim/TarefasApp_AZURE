@@ -8,7 +8,7 @@ namespace TarefasApp.API.Controllers
     public class TarefasController : ControllerBase
     {
         /// <summary>
-        /// Serviço para cadastro de tarefas.
+        /// ServiÃ§o para cadastro de tarefas.
         /// </summary>
         /// <returns></returns>
         [HttpPost]
@@ -18,7 +18,7 @@ namespace TarefasApp.API.Controllers
         }
 
         /// <summary>
-        /// Serviço para atualização de tarefas.
+        /// ServiÃ§o para atualizaÃ§Ã£o de tarefas.
         /// </summary>
         /// <returns></returns>
         [HttpPut]
@@ -28,7 +28,7 @@ namespace TarefasApp.API.Controllers
         }
 
         /// <summary>
-        /// Serviço para deletar de tarefas.
+        /// ServiÃ§o para deletar de tarefas.
         /// </summary>
         /// <returns></returns>
         [HttpDelete]
@@ -38,7 +38,7 @@ namespace TarefasApp.API.Controllers
         }
 
         /// <summary>
-        /// Serviço para consultar de tarefas.
+        /// ServiÃ§o para consultar de tarefas.
         /// </summary>
         /// <returns></returns>
         [HttpGet]
